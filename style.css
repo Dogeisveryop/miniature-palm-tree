@@ -1,0 +1,22 @@
+.button {
+    background-color: transparent ;
+    color:white; 
+    font-family: Single Day; 
+    font-size: 45px ; 
+    border: 2px solid lightpink ;  
+    box-shadow: 10px 10px 10px white; 
+    width: 30%;
+}
+
+body {
+    background-size: cover;
+}
+
+.button:hover {
+    font-size: 58px ;
+    color: chartreuse;
+    font-family: "Zeyada", cursive;
+    box-shadow: 10px 10px 10px chartreuse;
+    border-color: chartreuse;
+    text-align: center;
+}

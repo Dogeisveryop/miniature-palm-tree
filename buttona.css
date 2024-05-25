@@ -1,0 +1,9 @@
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px dotted black;
+    border-radius: 20px;
+    margin-top: 50px;
+}
